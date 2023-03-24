@@ -6,5 +6,5 @@ if [ "$input" = "a" ];
 then
 	echo "matched, good"
 else
-	echo "not matched"
+	echo "not matched, bad"
 fi
