@@ -1,0 +1,10 @@
+#!/bash/bin
+
+read -p "Input: " input
+
+if [ "$input" = "a" ];
+then
+	echo "matched"
+else
+	echo "not matched"
+fi
